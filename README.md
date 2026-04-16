@@ -1,0 +1,1 @@
+Adware Simulation Project is an educational cybersecurity project designed to demonstrate how adware behaves in a controlled and safe environment. It helps users understand how advertising-supported software operates, interacts with systems, and affects user experience without causing any harm to real devices or data.
